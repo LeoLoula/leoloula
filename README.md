@@ -13,18 +13,14 @@
 
 ### 🛠️ Skills  
 
-⚛️ React  
-🟦 TypeScript  
-🟨 JavaScript  
+⚛️ React, TypeScript & JavaScript
 🧱 HTML  
-🎨 CSS  
-🌬️ Tailwind
+🎨 CSS & Tailwind
 ♨️ Java (Maven, Spring Boot, Quarkus, Open Liberty)  
-🧪 JUnit  
-🧰 Mockito  
-🐍 Python  
+🧪 JUnit, Mockito
 🦀 Rust  
 🧩 C#
+🟪 .NET
 
 ---
 
